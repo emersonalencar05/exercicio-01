@@ -1,0 +1,144 @@
+.manga{
+font-family:  'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 5rem;
+font-style: normal;
+font-weight: 500;
+font-variant-position: unset;
+font-variant: small-caps;
+font-variant-caps: all-small-caps;
+color:#F2F2F2;
+}
+.biscoito{
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 1cm;
+font-style: oblique;
+font-weight: 600;
+font-variant-position: super;
+font-variant: small-caps;
+font-variant-caps: normal;
+color: #0D0D0D;
+}
+.mesa{
+font-family: Arial, Helvetica, sans-serif;
+font-style: normal;
+font-size: 5%;
+}
+.box{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1cm;
+    font-style: oblique;
+    font-weight: 600;
+    font-variant-position: super;
+    font-variant: small-caps;
+    font-variant-caps: normal;
+    color: #0D0D0D;
+}
+.uau{
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 4rem;
+font-style: normal;
+font-weight: 700;
+font-variant-position: super;
+font-variant: small-caps;
+font-variant-caps: all-small-caps;
+color: rgb(172, 9, 23);
+}
+.over{
+    margin-right: 1mm;
+}
+.borda{
+background-image: url(pngtree-illustration-design-different-people-wearing-mask-png-image_2174813.jpg);
+border-right-width: 5cm;
+border-right-style: solid;
+border-right-color:  #F2F2F2;
+border-left-width: 5cm;
+border-left-style: solid;
+border-left-color: #F2F2F2;
+
+}
+.bool{
+    margin-right: 2cm;
+    margin-left: 2cm;
+    margin-bottom: 0cm;
+    margin-top: 0cm;
+}
+.caixa{
+background-color:#F3F4F7 ;
+border-right-width: 1mm ;
+border-style: solid ;
+border-right-color: #000000 ;
+border-left-width: 1mm ;
+border-left-style: solid;
+border-left-color: #000000;
+border-top-color: #000000;
+border-bottom-color: #000000;
+border-bottom-width: 1mm;
+border-top-style: solid;
+border-top-width: 1mm;
+}
+.terra{
+    background-color:#F3F4F7 ;
+    border-right-width: 1mm ;
+    border-style: solid ;
+    border-right-color: #000000 ;
+    border-left-width: 1mm ;
+    border-left-style: solid;
+    border-left-color: #000000;
+    border-top-color: #000000;
+    border-bottom-color: #000000;
+    border-bottom-width: 1mm;
+    border-top-style: solid;
+    border-top-width: 1mm;
+}
+.mato{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1cm;
+    font-style: oblique;
+    font-weight: 600;
+    font-variant-position: super;
+    font-variant: small-caps;
+    font-variant-caps: normal;
+    color:#BF3111;
+}
+.theend{
+    background-color: #F2F2F2;
+    border-right-width: 1mm;
+    border-right-style: solid;
+    border-right-color:  #F2F2F2;
+    border-left-width: 1mm;
+    border-left-style: solid;
+    border-left-color:#F2F2F2;
+    border-top-width: 1mm;
+    border-top-style: solid;
+    border-top-color: #F2F2F2;
+    border-bottom-width: 1mm;
+    border-bottom-style: solid;
+    border-block-end-color: #F2F2F2;
+}
+.bola{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2rem;
+    font-style: normal;
+    font-weight: 700;
+    font-variant-position: super;
+    font-variant: small-caps;
+    font-variant-caps: all-small-caps;
+    color: #000000;
+}
+.killer{
+    margin-left: 7cm;
+    margin-right: 5cm;
+    background-color: #0D0D0D;
+    border-right-width: 4mm;
+    border-right-style: solid;
+    border-right-color:  #0D0D0D;
+    border-left-width: 4mm;
+    border-left-style: solid;
+    border-left-color:#0D0D0D;
+    border-top-width: 4mm;
+    border-top-style: solid;
+    border-top-color: #0D0D0D;
+    border-bottom-width: 4mm;
+    border-bottom-style: solid;
+    border-block-end-color: #0D0D0D;
+}
